@@ -33,58 +33,7 @@ Aplicación de Conversor de Monedas desarrollada en Java que permite convertir e
 ```bash
 git clone https://github.com/rhizor/conversor-monedas.git
 
-## Configuración 
 
-1. Obtén una API Key en ExchangeRate−APIhttps://www.exchangerate−api.com/
-2. Reemplaza TU_API_KEY en:
-- Main.java
-- ConversorMonedasTest.java
-
-## Compilar el Proyecto
-
-1. Abre Intellij y carga el proyecto
-2. En la terminal ejecuta el siguiente comando:
-mvn clean install
-
-🎮 Uso 
-
-- Selecciona la moneda de origen
-- Elige la moneda de destino
-- Ingresa el monto a convertir
-- Observa el resultado de la conversión
-     
-
-Monedas Soportadas 
-
-- Dólar Estadounidense USD
-- Peso Argentino ARS
-- Real Brasileño BRL
-- Peso Colombiano COP
-- Euro EUR
-     
-
-🧪 Pruebas 
-
-El proyecto incluye pruebas unitarias para: 
-
-- Conversiones básicas
-- Manejo de errores
-- Validación de monedas
-
-🔒 Licencia 
-
-Distribuido bajo la Licencia MIT. Ver LICENSE para más información. 
-📞 Contacto 
-
-Cristian Bonilla - darkwizard115@gmail.com
-
-Link del Proyecto: https://github.com/rhizor/Conversor-moneda
-
-🙏 Reconocimientos 
-
-- AluraLatam: https://www.aluracursos.com/
-- ExchangeRate−API: https://www.exchangerate−api.com/
-- Comunidad de desarrolladores Java
      
      
          
