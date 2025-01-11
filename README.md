@@ -82,6 +82,12 @@ Cristian Bonilla - darkwizard115@gmail.com
 
 Link del Proyecto: https://github.com/rhizor/Conversor-moneda
 
+## Capturas de Pantalla
+ ![imagen](https://github.com/user-attachments/assets/dd45bb24-35ab-40ff-93a1-951664322108)
+
+ ![imagen](https://github.com/user-attachments/assets/78b09fb8-7ee2-46b3-834d-8dfd0f21c9ec)
+
+ 
 ## 🙏 Reconocimientos 
 
 - AluraLatam: https://www.aluracursos.com/
